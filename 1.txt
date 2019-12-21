@@ -40,6 +40,5 @@
 Пуговкин - 6
 Сафонов - 6
 
->>>>>>> 45ac2176f620ea0dfcad4c55bb25f0ee98cc7fc1
 //Your answer
 //example: Масляев - 6
